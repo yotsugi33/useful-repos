@@ -1,5 +1,5 @@
 # useful-repos
-# ✧･ﾟ: *✧･ﾟ:* My Nyamazing Git Repository Index *:･ﾟ✧*:･ﾟ✧
+# My Nyamazing Git Repository Index ✧
 
 ฅ^•ﻌ•^ฅ Welcome to my purrfect collection of useful repositories! ฅ^•ﻌ•^ฅ
 
