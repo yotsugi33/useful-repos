@@ -34,6 +34,8 @@
 ### LLM stuff(⁀ᗢ⁀)
 - [MCP-servers](https://github.com/punkpeye/awesome-mcp-servers) - ( ˙꒳​˙ )  looks cool mhh
 
+- [direnv](https://github.com/direnv/direnv) - (●ˊᵕˋ●) Features I find useful~
+
 ### Python ପ(๑•ᴗ•๑)ଓ ♡
 - [repo-name](repo-link) - (●ˊᵕˋ●) Features I find useful~
 - [repo-name](repo-link) - (≧◡≦) Notes about implementation~
