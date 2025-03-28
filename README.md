@@ -3,6 +3,14 @@
 
 ฅ^•ﻌ•^ฅ Welcome to my purrfect collection of useful repositories! ฅ^•ﻌ•^ฅ
 
+
+## (=^･ω･^=) General Setup (=^･ω･^=)
+
+### t ⸜(⋆˙ᗜ˙⋆)⸝ Terminal 
+- [ghostty](https://ghostty.org/) - (❁´◡`❁) GPU acceleration nice~
+- [repo-name](repo-link) - (◕‿◕✿) Why I find this useful nyaa~
+
+
 ## (=^･ω･^=) Frontend Frameworks & Libraries (=^･ω･^=)
 
 ### React ⸜(⋆˙ᗜ˙⋆)⸝
