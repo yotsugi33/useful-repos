@@ -6,6 +6,9 @@
 
 ## (=^･ω･^=) General Setup (=^･ω･^=)
 
+### Misc  / to sort
+https://gitdiagram.com/
+
 ### t ⸜(⋆˙ᗜ˙⋆)⸝ Terminal 
 - [ghostty](https://ghostty.org/) - (❁´◡`❁) GPU acceleration nice~
 - [repo-name](repo-link) - (◕‿◕✿) Why I find this useful nyaa~
