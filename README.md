@@ -21,11 +21,18 @@
 - [repo-name](repo-link) - (๑˃ᴗ˂)ﻭ Short description~
 - [repo-name](repo-link) - ₍ᐢ•ﻌ•ᐢ₎ Why I find this interesting~
 
+
+## ʕ•ᴥ•ʔ Vibe Codings ʕ•ᴥ•ʔ
+
+
+### Random vibes ;3
+- [copy UI] (https://same.new/)
+
+
 ## ʕ•ᴥ•ʔ Backend Technologies ʕ•ᴥ•ʔ
 
-### Node.js (⁀ᗢ⁀)
-- [repo-name](repo-link) - ( ˙꒳​˙ ) What I like about this~
-- [repo-name](repo-link) - (*˘︶˘*) How I've used this before~
+### LLM stuff(⁀ᗢ⁀)
+- [MCP-servers](https://github.com/punkpeye/awesome-mcp-servers) - ( ˙꒳​˙ )  looks cool mhh
 
 ### Python ପ(๑•ᴗ•๑)ଓ ♡
 - [repo-name](repo-link) - (●ˊᵕˋ●) Features I find useful~
